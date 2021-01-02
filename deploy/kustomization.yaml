@@ -10,7 +10,7 @@ resources:
 
 images:
 - name: 158233516926.dkr.ecr.us-west-2.amazonaws.com/guestbook
-  newTag: b3fb1aeed0f3c337461af1d4a1e4c8737a8e556d
+  newTag: dc92b24d7bf61952a8c1c5d2eb89d02ee2e0d428
 - name: frontend
   newName: 158233516926.dkr.ecr.us-west-2.amazonaws.com/guestbook
   newTag: new
